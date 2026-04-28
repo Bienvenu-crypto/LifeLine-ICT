@@ -122,7 +122,7 @@ institutional context.
 
 ## License
 
-MIT, Apache
+See the [LICENSE](LICENSE) file for details.
 
 ## Maintainers
 
